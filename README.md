@@ -1,3 +1,2 @@
 # datascience
-My coursera data science training 
-test123454545
+My coursera data science training
